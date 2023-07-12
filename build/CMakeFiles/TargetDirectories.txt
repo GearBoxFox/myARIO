@@ -1,0 +1,3 @@
+C:/Users/lboog/Documents/GitHub/myARIO/build/CMakeFiles/Template.dir
+C:/Users/lboog/Documents/GitHub/myARIO/build/CMakeFiles/edit_cache.dir
+C:/Users/lboog/Documents/GitHub/myARIO/build/CMakeFiles/rebuild_cache.dir
